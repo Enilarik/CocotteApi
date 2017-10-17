@@ -1,6 +1,6 @@
 # CocotteApi
 
-##### Visiteur
+### Visiteur
 Note : Dans la description de chacune des pages qui vont suivre, si un ordre doit être choisi sur la façon de trier des données, l'ordre souhaité est un ordre chronologie inversé (du + récent au + vieux)
 
 * Page de présentation :
@@ -30,8 +30,8 @@ Doit afficher l'ensemble des partenaires de Cocotte Min'UTT, la forme est encore
 * Nos événements :
 Contient les "gros événements" de Cocotte Min'UTT, la présentation qui va avec (+ d'autres propriétés), cf Actualités.
 
-##### Membre
+### Membre
 * -
 
-##### Administrateur
+### Administrateur
 * -
