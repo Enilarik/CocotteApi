@@ -1,1 +1,9 @@
 # CocotteApi
+
+#####Visiteur
+
+
+#####Membre
+
+
+#####Administrateur
