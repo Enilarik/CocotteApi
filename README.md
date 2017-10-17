@@ -5,12 +5,12 @@ Note : Dans la description de chacune des pages qui vont suivre, si un ordre doi
 
 * Page de présentation :
 Doit pouvoir accéder à une première page appelée "page de présentation", la forme est à décider mais l'idée est une première page présentant succinctement Cocotte Min'UTT et contenant, entre autres, une navbar permettant de naviguer entre plusieurs pages :
- * Actualités
- * Recettes
- * Contact
- * Photos & Vidéos
- * Partenaires
- * Nos événements
+  - Actualités
+  - Recettes
+  - Contact
+  - Photos & Vidéos
+  - Partenaires
+  - Nos événements
 
 `Cette navbar devra être conservée sur les autres pages`
 
