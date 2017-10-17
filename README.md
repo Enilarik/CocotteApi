@@ -34,4 +34,12 @@ Contient les "gros événements" de Cocotte Min'UTT, la présentation qui va ave
 * -
 
 ### Administrateur
-* -
+* Concernant le site vitrine, l'Administrateur doit pouvoir :
+  - Ajouter, modifier et supprimer :
+    - les actualités
+    - les recettes
+    - les photos & vidéos
+    - les partenaires
+    - les "gros événements" (nos événements)
+  - Gérer les "gros événements" et les actualités
+  - Gérer la page de présentation : être en mesure de modifier la photo et le texte
